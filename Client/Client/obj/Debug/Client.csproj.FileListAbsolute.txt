@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\2 КУРС\AOS\aos lab 3\Client\Client\bin\Debug\Client.exe.config
+C:\Users\pc\Desktop\2 КУРС\AOS\aos lab 3\Client\Client\bin\Debug\Client.exe
+C:\Users\pc\Desktop\2 КУРС\AOS\aos lab 3\Client\Client\bin\Debug\Client.pdb
+C:\Users\pc\Desktop\2 КУРС\AOS\aos lab 3\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\2 КУРС\AOS\aos lab 3\Client\Client\obj\Debug\Client.exe
+C:\Users\pc\Desktop\2 КУРС\AOS\aos lab 3\Client\Client\obj\Debug\Client.pdb
